@@ -8,7 +8,7 @@ Built on top of the [pegdown](https://github.com/sirthias/pegdown) library.
 
 ## Basic Usage
 
-There is only one method available, md. It takes 
+There is only one function available, **md**. It takes 
 a String of text containing markdown and returns
 a String containing HTML instead.
 
