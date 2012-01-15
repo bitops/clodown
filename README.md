@@ -12,9 +12,9 @@ There is only one method available, md. It takes
 a String of text containing markdown and returns
 a String containing HTML instead.
 
-(use 'clodown.core)
-(md "test")
-;;=> "<p>test</p>"
+    (use 'clodown.core)
+    (md "test")
+    ;;=> "<p>test</p>"
 
 ## License
 
