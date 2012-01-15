@@ -1,5 +1,6 @@
 (defproject clodown "1.0.1"
   :description "A tiny MarkDown parser for Clojure."
+  :url "https://github.com/bitops/clodown"
   :dependencies [
                  [org.clojure/clojure "1.3.0"]
                  [org.pegdown/pegdown "1.1.0"]
