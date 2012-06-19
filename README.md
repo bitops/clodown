@@ -15,6 +15,9 @@ a String containing HTML instead.
     (use 'clodown.core)
     (md "test")
     ;;=> "<p>test</p>"
+    
+There is also a concurrency-safe version of **md** available,
+**mdp**.
 
 ## License
 
